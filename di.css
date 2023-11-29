@@ -144,6 +144,14 @@ textarea {
 	width: 500px;
 }
 
+hr {
+	border: 1px solid darkred;
+}
+
+iframe {
+	border: 0;
+}
+
 @media screen and (max-width:768px) {
 	.copyright {
 		display: none;
@@ -205,4 +213,5 @@ textarea {
 		margin-top: 5px;
 		width: 200px;
 	}
+
 }
